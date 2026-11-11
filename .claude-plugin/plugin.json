@@ -1,0 +1,26 @@
+{
+  "name": "north-metric",
+  "displayName": "North Metric",
+  "version": "1.0.0",
+  "description": "Connects Claude Code to North Metric: see which paying customers are likely to churn, work the Queue, and read the Ledger.",
+  "author": {
+    "name": "North Metric",
+    "email": "hello@northmetric.io",
+    "url": "https://northmetric.io"
+  },
+  "homepage": "https://northmetric.io/integrations/mcp",
+  "repository": "https://github.com/north-metric/claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "churn",
+    "retention",
+    "stripe",
+    "saas"
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "documentationUrl": "https://northmetric.io/integrations/mcp",
+  "supportUrl": "https://northmetric.io/contact",
+  "privacyPolicyUrl": "https://northmetric.io/privacy",
+  "termsOfServiceUrl": "https://northmetric.io/terms"
+}
