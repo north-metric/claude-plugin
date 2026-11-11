@@ -1,0 +1,15 @@
+{
+  "name": "north-metric",
+  "description": "The North Metric plugin for Claude Code.",
+  "owner": {
+    "name": "North Metric",
+    "email": "hello@northmetric.io"
+  },
+  "plugins": [
+    {
+      "name": "north-metric",
+      "source": "./",
+      "description": "Connects Claude Code to North Metric: churn risk, the Queue and the Ledger."
+    }
+  ]
+}
